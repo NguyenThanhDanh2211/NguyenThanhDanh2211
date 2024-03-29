@@ -92,6 +92,7 @@ I'm a student at College of Information & Communication Technology - Can Tho Uni
       height="36"
       alt="MongoDB"
   /></a>
+</a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
   
 </p>
 
@@ -100,7 +101,77 @@ I'm a student at College of Information & Communication Technology - Can Tho Uni
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/ng.thzanh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/NguyenThanhDanh2211" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ng.thdanh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+  <a
+    href="https://www.github.com/NguyenThanhDanh2211"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg
+        "
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg
+        "
+      />
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+        width="32"
+        height="32"
+      />
+    </picture>
+  </a>
+  <a href="https://www.facebook.com/ng.thzanh" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg
+        "
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg
+        "
+      />
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
+        width="32"
+        height="32"
+      />
+    </picture>
+  </a>
+
+  <a href="http://www.instagram.com/ng.thdanh" target="_blank" rel="noreferrer">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg
+        "
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg
+        "
+      />
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
+        width="32"
+        height="32"
+      />
+    </picture>
+  </a>
+</p>
+
 
 ### Badges
 
