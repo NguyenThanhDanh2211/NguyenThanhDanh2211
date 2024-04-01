@@ -172,11 +172,13 @@ I'm a student at College of Information & Communication Technology - Can Tho Uni
   </a>
 </p>
 
+### My GitHub Stats
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/NguyenThanhDanh2211"><img src="https://github-readme-stats.vercel.app/api?username=NguyenThanhDanh2211&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="NguyenThanhDanh2211's GitHub stats" /></a>
-
-<a href="http://www.github.com/NguyenThanhDanh2211"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenThanhDanh2211&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
-<a href="https://github.com/NguyenThanhDanh2211" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenThanhDanh2211&langs_count=10&title_color=0891b2&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><a href="http://www.github.com/NguyenThanhDanh2211"><img src="https://github-readme-stats.vercel.app/api?username=NguyenThanhDanh2211&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="NguyenThanhDanh2211's GitHub stats" /></a></td>   
+       <td><a href="http://www.github.com/NguyenThanhDanh2211"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenThanhDanh2211&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a></td>
+    </tr>
+ </table>
+</div>
