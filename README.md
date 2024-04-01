@@ -1,8 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyễn Thành Danh
-=========================================================================================================================================
+<div align="center" style=" width: 100%;">
+    <h1 style="text-align: center; width: 100%;" >
+      <img style=" width: 100%;" src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=6000&color=0081A7&center=true&vCenter=true&width=435&lines=Hi+guys,+I'm+Thành+Danh;Welcome+to+my+Github!;" alt="Typing SVG"/>
+    </h1>
+    <p ><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+</div>
 
-Automation Tester
------------------
+### About me
 
 I'm a student at College of Information & Communication Technology - Can Tho University
 
