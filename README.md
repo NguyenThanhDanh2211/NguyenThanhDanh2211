@@ -1,6 +1,6 @@
 <div align="center" style=" width: 100%;">
     <h1 style="text-align: center; width: 100%;" >
-      <img style=" width: 100%;" src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=6000&color=0081A7&center=true&vCenter=true&width=435&lines=Hi+guys,+This+is+Thành+Danh;Welcome+to+my+Github!;" alt="Typing SVG"/>
+      <img style=" width: 100%;" src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=6000&color=0081A7&center=true&vCenter=true&width=435&lines=Hi+guys,+This+is+Thành+Danh;Welcome+to+my+Github!;" alt="Typing SVG"/>
     </h1>
     <p ><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
