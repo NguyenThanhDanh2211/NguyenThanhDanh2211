@@ -185,3 +185,14 @@ I'm a student at College of Information & Communication Technology - Can Tho Uni
     </tr>
  </table>
 </div>
+<div align="center">
+ <table align="center" width="100%" height="100%" >
+   <tr>
+       <td>
+           <a href="https://github.com/NguyenThanhDanh2211" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenThanhDanh2211&langs_count=10&title_color=0891b2&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+       </td>
+   </tr>
+ </table>
+</div>
+
+
