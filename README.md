@@ -11,7 +11,7 @@ I'm a student at College of Information & Communication Technology - Can Tho Uni
 
 * 🌍  I'm based in Can Tho City
 * ✉️  You can contact me at [nguyenthanhdanh221102@gmail.com](mailto:nguyenthanhdanh221102@gmail.com)
-* 🧠  I'm learning Selenium, Katalon Studio
+* 🧠  I'm learning Selenium, Katalon Studio, Cypress
 
 ### Skills
 
