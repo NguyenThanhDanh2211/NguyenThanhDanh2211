@@ -1,6 +1,6 @@
 <div align="center" style=" width: 100%;">
     <h1 style="text-align: center; width: 100%;" >
-      <img style=" width: 100%;" src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=6000&color=0081A7&center=true&vCenter=true&width=435&lines=Hi+guys,+This+is+Thành+Danh;Welcome+to+my+Github!;" alt="Typing SVG"/>
+      <img style=" width: 100%;" src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=6000&color=0081A7&center=true&vCenter=true&width=435&lines=Hi+guys,+I'm+Thành+Danh;Welcome+to+my+Github!;" alt="Typing SVG"/>
     </h1>
     <p ><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
@@ -11,7 +11,7 @@ I'm a student at College of Information & Communication Technology - Can Tho Uni
 
 * 🌍  I'm based in Can Tho City
 * ✉️  You can contact me at [nguyenthanhdanh221102@gmail.com](mailto:nguyenthanhdanh221102@gmail.com)
-* 🧠  I'm learning Selenium, Katalon Studio, Cypress
+* 🧠  I'm learning Selenium, Katalon Studio, Cypress, RotbotFramework
 
 ### Skills
 
@@ -96,6 +96,14 @@ I'm a student at College of Information & Communication Technology - Can Tho Uni
       alt="MongoDB"
   /></a>
 </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+      alt="cypress"
+      width="40"
+      height="40"
+    />
+  </a>
   
 </p>
 
@@ -105,92 +113,30 @@ I'm a student at College of Information & Communication Technology - Can Tho Uni
 ### Socials
 
 <p align="left">
-  <a
-    href="https://www.github.com/NguyenThanhDanh2211"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg
-        "
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg
-        "
-      />
-      <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-        width="32"
-        height="32"
-      />
-    </picture>
-  </a>
-  <a href="https://www.facebook.com/ng.thzanh" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg
-        "
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg
-        "
-      />
-      <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
-        width="32"
-        height="32"
-      />
-    </picture>
-  </a>
-
-  <a href="http://www.instagram.com/ng.thdanh" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg
-        "
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg
-        "
-      />
-      <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
-        width="32"
-        height="32"
-      />
-    </picture>
-  </a>
+  <a href="https://linkedin.com/in/ngthdanh221102" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="ngthdanh221102"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://fb.com/ng.thzanh" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="ng.thzanh"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://instagram.com/ng.thdanh" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="ng.thdanh"
+      height="30"
+      width="40"
+  /></a>
 </p>
 
-### My GitHub Stats
-
-<div align="center">
- <table align="center" width="100%" height="100%" >
-    <tr>
-       <td><a href="http://www.github.com/NguyenThanhDanh2211"><img src="https://github-readme-stats.vercel.app/api?username=NguyenThanhDanh2211&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="NguyenThanhDanh2211's GitHub stats" /></a></td>   
-       <td><a href="http://www.github.com/NguyenThanhDanh2211"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenThanhDanh2211&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a></td>
-    </tr>
-     
- </table>
- <table align="center" width="100%" height="100%" style="top: 0px;">
-   <tr>
-       <td>
-           <a href="https://github.com/NguyenThanhDanh2211" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenThanhDanh2211&langs_count=10&title_color=0891b2&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-       </td>
-   </tr>
- </table>
- </div>
 
