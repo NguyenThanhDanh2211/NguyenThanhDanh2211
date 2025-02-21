@@ -169,6 +169,6 @@ I have graduated from the College of Information and Communication Technology â€
 </p>
 <picture>
 
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NguyenThanhDanh2211/NguyenThanhDanh2211/output/github-snake.svg" />
 </picture>
 
