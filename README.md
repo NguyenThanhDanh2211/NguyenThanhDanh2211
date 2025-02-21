@@ -167,8 +167,12 @@ I have graduated from the College of Information and Communication Technology �
       width="40"
   /></a>
 </p>
-<picture>
 
-  <img alt="github-snake" src="https://raw.githubusercontent.com/NguyenThanhDanh2211/NguyenThanhDanh2211/output/github-snake.svg" />
-</picture>
+
+### 🐍 My Contributions 🐍
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NguyenThanhDanh2211/NguyenThanhDanh2211/output/github-contribution-grid-snake.svg" />
+   <br/><br/><br/>
+</div>
 
